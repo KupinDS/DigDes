@@ -26,11 +26,4 @@ function addToArray(array) {
   console.log(arr);
 }
 
-fillArray(-100, 100)
-
-console.log('Хорошего Вам дня! С уважением, Дмитрий Купин.');
-
-
-
-
-
+fillArray(-100, 100);

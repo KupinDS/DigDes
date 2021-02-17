@@ -12,9 +12,6 @@ function printTriangle(value) {
     string = arr.join('');
     console.log(string);
   }
-
-  console.log('Хорошего Вам дня! С уважением, Дмитрий Купин.');
 }
 
 printTriangle(5);
-
